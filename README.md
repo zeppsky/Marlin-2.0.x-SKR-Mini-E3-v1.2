@@ -1,4 +1,19 @@
-# SKR MINI E3 v1.2 board Marlin 2.0 firmware for an Ender 3 Pro w/BLtouch (Standard mount) #
+# Pokémon Version - SKR MINI E3 v1.2 board Marlin 2.0 firmware for an Ender 3 Pro w/BLtouch (Standard mount) #
+
+## Features
+
+<u>**Bootscreen**</u> - Animated bootscreen.<br/>
+<img align="top" src="docs/boot.jpg" />
+
+<u>**Status**</u> - Status screen with Pikachu as the Hotend, and Charmander as the Hotbed. Both animate when the hotend / hotbeds are heating. <br/>
+<img align="top" src="docs/statusscreen.jpg" />
+
+
+
+## Based on elgrande007's firmware
+
+Credit for base firmware goes to https://github.com/elgrande007/Marlin-2.0.x-SKR-Mini-E3-v1.2 . Original Readme below:
+
 
 ## BLTouch Wiring
 
