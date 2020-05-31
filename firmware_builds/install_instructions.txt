@@ -1,0 +1,7 @@
+Install instructions:
+
+Rename firmware_x to firmware.bin and copy to your SD card. 
+Turn off your printer, insert card and turn on. 
+Firmware should just flash after 10/20 seconds.
+
+I've only tested firmware_bltouch_zaxis, so if you have any issues please check out my github and configure the build yourself. 
