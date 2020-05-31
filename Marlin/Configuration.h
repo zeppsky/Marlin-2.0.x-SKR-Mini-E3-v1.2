@@ -1612,7 +1612,7 @@
  * :['JAPANESE', 'WESTERN', 'CYRILLIC']
  */
 #define DISPLAY_CHARSET_HD44780 WESTERN
-
+#define BOOT_MARLIN_LOGO_ANIMATED
 /**
  * Info Screen Style (0:Classic, 1:Prusa)
  *
